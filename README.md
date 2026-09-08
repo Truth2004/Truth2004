@@ -23,3 +23,4 @@ This profile is where I share my game prototypes, vertical slices, web apps, and
 * 🥸 I love attempting to understand things enough to explain them to a 5th grader
 * 🧩 I like building mechanics and interfaces that are highly responsive, dynamic, and fun to interact with
 * 💻 Currently learning Python and SQL
+* 🤓 I love Quality Assurance and Software Testing
